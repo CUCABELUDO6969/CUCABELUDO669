@@ -1,4 +1,11 @@
-# blog do matheus
+# blog do matheus 
+
+meu nome é matheus santos
+
+-estou estudando no alura 
+
+
+-utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
 
 
@@ -13,4 +20,4 @@ olá pesssoal essa aqui e minha conta e irei divulgar meus projetos aqui
 
 - estudado no alura
 - aprendendo na parte da informatica
-- 
+- desenvolvendo um blog pessoal
